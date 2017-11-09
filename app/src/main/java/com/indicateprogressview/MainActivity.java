@@ -10,6 +10,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         IndicateProgressBar ProgressView = (IndicateProgressBar) findViewById(R.id.ProgressView);
-        ProgressView.setProgress(20);//设置进度
+        ProgressView.setProgress(0);//设置进度
+        
     }
 }
