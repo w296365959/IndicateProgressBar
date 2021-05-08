@@ -16,7 +16,7 @@ allprojects {
 #Step 2. Add the dependency 
 ```
 dependencies {
-	        implementation 'com.github.w296365959:IndicateProgressBar:Tag'
+	        implementation 'com.github.w296365959:IndicateProgressBar:1.1.0'
 	}
  ```
    
